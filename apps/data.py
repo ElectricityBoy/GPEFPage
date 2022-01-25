@@ -1,3 +1,4 @@
+from faulthandler import is_enabled
 import pandas as pd
 import datetime
 import streamlit as st
