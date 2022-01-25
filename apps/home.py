@@ -46,7 +46,7 @@ def app():
 
     st.markdown('<p align="justify"> A atividade consiste em desenvolver no PET um Grupo de Pesquisa para tratar de questões de gênero, a fim de diagnosticar, por exemplo, as causas da baixa participação de mulheres nas áreas de ciências exatas e engenharias - inclusive no PET Elétrica. Além de desenvolver pesquisas, a atividade tem o propósito de gerar um arcabouço teórico com objetivo de fundamentar outras atividades, de preferência de cunho extensionista, com intuito de garantir equidade de gênero. Além disso, pretende-se promover debates e discussões acerca das questões estudadas e gerar resultados como a escrita de artigos. </p>', unsafe_allow_html=True)
 
-    imagem = Image.open('Logos\logo.png')
+    imagem = Image.open('logo.png')
     st.image(imagem)
 
 
