@@ -2,7 +2,6 @@ from faulthandler import is_enabled
 import pandas as pd
 import datetime
 import streamlit as st
-import plotly.express as px
 from PIL import Image
 import requests
 from streamlit_lottie import st_lottie
