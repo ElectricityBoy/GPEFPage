@@ -11,7 +11,7 @@ st.set_page_config(
 
 # Add all your application here
 app.add_app("Pagina Inicial", home.app)
-app.add_app("Analise dos Dados", data.app)
+app.add_app("Análise dos Dados", data.app)
 
 
 # The main app

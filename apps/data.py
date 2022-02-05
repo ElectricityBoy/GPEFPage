@@ -37,7 +37,7 @@ def app():
     st.title('GPEF - GRUPO DE PESQUISA EM EMPODERAMENTO FEMININO ', datetime.date)
   
     #Sidebar
-    regions = {'Nordeste': 'REGIAO_NORDESTE_.csv','Norte': 'REGIAO_NORTE_.csv', 'Sudeste': 'REGIAO_SUDESTE_.csv', 'Sul': 'REGIAO_SUL_.csv','Centro Oeste': 'REGIAO_CO.csv'}
+    regions = {'Nordeste': 'REGIAO_NORDESTE_.csv','Norte': 'REGIAO_NORTE_.csv', 'Sudeste': 'REGIAO_SUDESTE_.csv', 'Sul': 'REGIAO_SUL_.csv','Centro Oeste': 'REGIAO_CO_.csv'}
 
     option = st.sidebar.selectbox('Escolha o ano do Senso:', (2018,2019))
     menu = st.sidebar.radio("Selecione uma região: ",regions.keys())
