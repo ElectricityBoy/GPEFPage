@@ -1,8 +1,7 @@
-from faulthandler import is_enabled
 import pandas as pd
 import datetime
 import streamlit as st
-from PIL import Image
+
 
 
 def analise(dfs):
