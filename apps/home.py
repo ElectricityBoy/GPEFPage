@@ -88,7 +88,7 @@ def app():
           Congresso UFBA 75 Anos
         """)
 
-        st.markdown("[Assista o vídeo](https://www.youtube.com/watch?v=LJjQ1lI0GYM)")
+        st.markdown("[Assista ao vídeo](https://www.youtube.com/watch?v=LJjQ1lI0GYM)")
 
       with image_column:
         #insert image
@@ -101,7 +101,7 @@ def app():
           Congresso UFBA 2021
         """)
 
-        st.markdown("[Assista o vídeo](https://www.youtube.com/watch?v=tBsMCZTv32k)")
+        st.markdown("[Assista ao vídeo](https://www.youtube.com/watch?v=tBsMCZTv32k)")
       
     #Produções
 
