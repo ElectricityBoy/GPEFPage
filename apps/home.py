@@ -121,7 +121,7 @@ def app():
         st.markdown("#### Uma iniciativa do programa de educação tutorial de engenharia elétrica da Universidade Federal da Bahia ")
         st.write(
           """
-          Brazilian Journal of Development para
+          Brazilian Journal of Development
           -  Nathane Lima Cintra
           -  Moira Bastos Prates
           -  Mariana de Carmo Nascimento
