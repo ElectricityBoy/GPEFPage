@@ -19,9 +19,9 @@ def load_lottieurl(url):
 # Load assets
 
 animation = load_lottieurl("https://assets1.lottiefiles.com/private_files/lf30_lps8ojuw.json")
-image1 = Image.open('images\congresso75anos.png')
-image3 = Image.open("images\crtigo1.png")
-image2 = Image.open('images\congresso2021.png')
+image1 = Image.open('images/congresso75anos.png')
+image3 = Image.open("images/crtigo1.png")
+image2 = Image.open('images/congresso2021.png')
 
 
 def app():
